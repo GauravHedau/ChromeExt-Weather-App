@@ -1,0 +1,17 @@
+
+{
+    "manifest_version": 3,
+    "name": "Weather App",
+    "version": "1.0.1",
+    "description" : "This is a weather app which fetches weather dynamically",
+    "action": {
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    },
+    "permissions": ["geolocation"],
+    "icons":{
+        "128":"logo.png"
+    }
+  
+  
+}
